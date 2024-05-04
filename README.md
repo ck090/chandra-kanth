@@ -5,6 +5,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-1906.08139-b31b1b.svg)](https://arxiv.org/abs/1906.08139)
 [![arXiv](https://img.shields.io/badge/arXiv-2211.07722-b31b1b.svg)](https://arxiv.org/abs/2211.07722)
 
-![Chandra Kanth's github stats](https://github-readme-stats.vercel.app/api?username=ck090&hide=contribs&show_icons=true&count_private=true&theme=algolia)
+# ![Chandra Kanth's github stats](https://github-readme-stats.vercel.app/api?username=ck090&hide=contribs&show_icons=true&count_private=true&theme=algolia)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ck090)
